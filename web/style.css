@@ -440,5 +440,106 @@
 		left: 850px;
 		bottom: 250px;
 	}
+	#shoesinfo
+	{
+		width:1450px;
+		height:200px;
+		background-color: black;
+		position: absolute;
+		top:-671px;
+		left:0px;
+	}
+	pl
+	{
+		font-size: 30px;
+		color: red;
+
+	}
+	#supremefoams
+	{
+		position: absolute;
+		left: 0px;
+		bottom:315px;
+	}	
+	#t4
+	{
+		position: absolute;
+		left: 0px;
+		bottom: 40px
+
+	}
+	#dbfoams
+	{
+		position: absolute;
+		right:485px;
+		bottom:315px;
+	}
+	#fr5
+	{
+		position: absolute;
+		right: 490px;
+		bottom: 40px;
+
+	}
+	#db8
+	{
+		position:absolute; 
+		right:1050px;
+		bottom:320px;
+
+	}
+	#yeezy
+	{
+		position: absolute;
+		right: 1050px;
+		bottom: 34px;
+
+	}
+	#flist
+	{
+		width:430px;
+		height: 700px;
+		float:left;
+		background-color: #7fffd4;
 
 
+	}
+	#flist li
+	{
+		padding-left: 5px;
+		font-size: 30px;
+
+	}
+	#img24
+	{
+
+		position: absolute;
+		left: 730px;
+		bottom:345px;
+	}
+	#img25
+	{
+		position: absolute;
+		left: 687px;
+		bottom:520px;
+	}
+	#img26
+	{
+		position: absolute;
+		left: 689px;
+		bottom: 150px;
+
+	}
+	#img27
+	{
+		position: absolute;
+		bottom: 520px;
+		left: 950px;
+
+	}
+	#img28
+	{
+		position: absolute;
+		bottom: 125px;
+		left: 960px;
+	}
